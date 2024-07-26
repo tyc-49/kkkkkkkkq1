@@ -1,0 +1,14 @@
+import java. awt. *;
+import java. applet. *;
+
+public class flowlayouttest extends. Applet{
+
+public void init()
+{
+setLayout(new flowLayout()) ;
+add(new button("one")) ;
+add(new button("two")) ;
+add(new button("three")) ;
+add(new button("four")) ;
+}
+} 
