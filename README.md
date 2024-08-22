@@ -1,2 +1,1 @@
-# kkkkkkkkq1
-njjj
+# unable locate package termux why???
